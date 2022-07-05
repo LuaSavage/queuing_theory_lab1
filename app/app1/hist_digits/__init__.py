@@ -1,0 +1,1 @@
+from hist_digits.digits import Digit, ManualDigits, SturgesDigits, EqualHeightDigits, ApproximatelyEqualHeightDigits
